@@ -3,5 +3,6 @@ import matplotlib.pyplot as plt
 
 x = [5 , 10, 100]
 y = [5 , 20, 100]
+z = [7, 9, 10]
 plt.plot(x, y)
 plt.show()
